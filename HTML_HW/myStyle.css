@@ -1,0 +1,67 @@
+body {
+  background-color: #81A488;
+  }
+
+div.main {
+  width: 60%;
+  height:100%;
+  border: 1px solid #E16340;
+  position:relative;
+  left: 20%;
+  }
+
+div.head {
+  height:100px;
+  border:1px solid #E16340;
+  }
+
+div.photo {
+  float:left;
+  width:250px;
+  height:350px;
+  border:2px inset #E16340;
+  margin-right: 1em;
+  }
+
+  
+div.content {
+  
+  }
+  
+table, td, th{
+border:1px solid green;
+width: 100%;
+}
+
+th{
+background-color: #81A488;
+width: 50%;
+}
+
+td{
+background-color: #81A488;
+width: 50%;
+}
+
+a:link {
+  color: #E16340;
+  text-decoration: none;
+  }
+
+a:hover {
+  color: #E16340;
+  background-color: white;
+  text-decoration: underline;
+  }
+
+a:active {
+  color: #E16340;
+  text-decoration: underline overline;
+  }
+
+a:visited {
+  color: #E16340;
+  text-decoration:underline;
+  }
+
+  
